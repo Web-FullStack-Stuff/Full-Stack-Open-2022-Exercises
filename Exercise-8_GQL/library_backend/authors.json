@@ -1,0 +1,85 @@
+[
+  {
+    "_id": {
+      "$oid": "642e5f58acdf900a051c19cd"
+    },
+    "name": "Robert Martin",
+    "born": 1952,
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "642e5f58acdf900a051c19ce"
+    },
+    "name": "Martin Fowler",
+    "born": 1963,
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "642e5f58acdf900a051c19cf"
+    },
+    "name": "Fyodor Dostoevsky",
+    "born": 1821,
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "642e5f58acdf900a051c19d0"
+    },
+    "name": "Joshua Kerievsky",
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "642e5f58acdf900a051c19d1"
+    },
+    "name": "Sandi Metz",
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "642e8ac53c52be7170a174be"
+    },
+    "name": "Reijo Mäki",
+    "born": 1900,
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "642fec15f56eabd1e366a4c2"
+    },
+    "name": "SK Mani",
+    "born": 1998,
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "643138d0bdf1fbcce2f89772"
+    },
+    "name": "Suraj N",
+    "born": 2002,
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "64314173bdf1fbcce2f89919"
+    },
+    "name": "keshab",
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "643243c4e78f76e2241dbc55"
+    },
+    "name": "Bishnu AK",
+    "bookCount":0
+  },
+  {
+    "_id": {
+      "$oid": "64325367e78f76e2241dc35e"
+    },
+    "name": "Jacobi L",
+    "bookCount":0
+  }
+]
